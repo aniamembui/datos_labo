@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\Datos_labo.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\Datos_labo.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\Datos_labo.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\main_lab_DATOS.frm_IngDatosLabo_Main.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Registro_Heladera2.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\Datos_labo.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\Datos_labo.application
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.application
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\obj\Debug\Datos_labo.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\funciones.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\Datos_labo\bin\Debug\funciones.pdb
