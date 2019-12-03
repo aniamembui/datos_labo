@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\funciones\bin\Release\funciones.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\funciones\bin\Release\funciones.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\funciones\obj\Release\funciones.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\C#_avanzado\Datos_labo\funciones\obj\Release\funciones.pdb
